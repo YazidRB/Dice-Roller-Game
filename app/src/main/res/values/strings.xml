@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="game_title">Welcome to Dice Game</string>
+    <string name="game__title">Welcome to Dice Game !</string>
+    <string name="rules"><![CDATA[rulls are simpple if you got 6 & 6 you win]]></string>
+</resources>
